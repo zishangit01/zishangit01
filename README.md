@@ -4,25 +4,65 @@
 
 <div align="center">
   <h1>Hi 👋, I'm Zishan Alam</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=320&height=30&lines=Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Dashboard+%26+Insights+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=340&height=30&lines=Aspiring+Data+Analyst;SQL+%7C+Excel+%7C+Power+BI;Analyzing+Data+%7C+Finding+Insights" />
 </div>
 
 ---
 
 # 👨‍💼 About Me  
 
-📊 Aspiring **Data Analyst** skilled in **Excel, SQL & Power BI**  
-🔍 Turning raw data into **actionable business insights**  
-📈 Passionate about **data cleaning, dashboards & storytelling**
+🎯 **Actively seeking Data Analyst / Business Analyst roles**  
+📊 Skilled in **Power BI, SQL, Excel, and Data Cleaning**  
+🔍 Strong ability to turn raw data into **actionable insights & dashboards**  
+📈 Passionate about **data visualization, KPI tracking, and storytelling**  
+
+💡 My goal:  
+To help companies make smarter, data-driven decisions through clean analysis, dashboards, and automation.
 
 ---
 
-# 🛠️ Tech Stack  
+# 🚀 Skills & Tools  
 
-- **Power BI**: DAX, Data Modeling, Visualizations  
-- **SQL**: Joins, Window Functions, CTEs, Aggregations  
-- **Excel**: Lookups, Pivot Tables, Dashboards, Data Cleaning  
-- **Data Analytics**: KPI Design, EDA, Business Insights  
+### 📌 **Data Analytics**
+- Exploratory Data Analysis (EDA)  
+- KPI Design & Business Insights  
+- Data Modeling & Data Cleaning  
+
+### 📌 **Power BI**
+- Interactive Dashboards  
+- DAX Measures & Calculations  
+- Data Modeling & Relationships  
+
+### 📌 **SQL**
+- Joins, Subqueries  
+- Window Functions  
+- Aggregations, CTEs  
+
+### 📌 **Excel**
+- VLOOKUP / XLOOKUP  
+- Pivot Tables  
+- Dashboards  
+- Power Query  
+
+---
+
+# 📂 Featured Projects  
+
+### 🔹 **Blinkit Sales Dashboard (Power BI)**  
+Analyze sales performance, customer behavior & product trends.  
+➡ *Key Skills:* DAX, KPIs, Dashboard Design  
+
+---
+
+### 🔹 **Superstore Sales Analysis (Excel)**  
+Sales forecasting, profit analysis & KPI reporting.  
+➡ *Key Skills:* Excel, Pivot Table, Dashboard  
+
+---
+
+### 🔹 **HR Analytics Dashboard (Power BI)**  
+Employee attrition insights and HR KPI tracking.  
+➡ *Key Skills:* HR KPIs, DAX, Data Modeling  
 
 ---
 
@@ -38,10 +78,6 @@
 
 <p>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zishangit01&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
-</p>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=zishangit01&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" />
 </p>
 
 <p>
